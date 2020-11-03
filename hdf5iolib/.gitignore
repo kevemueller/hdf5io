@@ -1,0 +1,6 @@
+/target/
+**/.settings/
+/*.h5
+/myData*
+/simple.h5.yaml
+/testVoffset.bin

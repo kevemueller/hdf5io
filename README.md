@@ -30,4 +30,3 @@ The [CISD Center for Information Sciences and Databases at the ETH Zurich](https
 
 ### James Mudd - jHDF - Pure Java HDF5 library
 [James Mudd](https://github.com/jamesmudd) has created (jHDF)[https://github.com/jamesmudd/jhdf] a library to read HDF5 files in pure Java.
-

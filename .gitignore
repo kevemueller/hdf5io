@@ -1,0 +1,12 @@
+/bin/
+**/.classpath
+**/.settings
+**/.project
+**/.checkstyle
+**/.DS_Store
+**/target
+/hdf5-1.12.0
+/sis-jhdf5
+/Users_Guide.pdf
+**/*.h5.yaml
+/hdf5playground/
